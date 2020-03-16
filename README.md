@@ -1,6 +1,20 @@
-# Bikesharing_ADominguez
+## DESCRIPTION
 
-Working with data visualization software, Tableau, to present a business proposal for a bike-sharing company.
+
+### SITUATION/TASK
+
+
+### APPROACH
+
+### RESULTS
+
+
+### THINGS LEARNED
+
+
+### SOFTWARE/TOOLS
+Tableau
+
 
 
 ### Link to Dashboard:
