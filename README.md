@@ -10,10 +10,7 @@ First, import the flat file, CSV data into Tableau. Next create and style worksh
 Then use Tableau worksheets to display data in a professional way. Finally, portray data accurately using Tableau dashboards.
 
 
-![overview](https://github.com/aodoming/Mapping_Earthquakes_ADominguez/blob/master/pics/Earthquake_past7days.png)
-
-
-
+![overview](https://github.com/aodoming/Bikesharing_ADominguez/tree/master/pics)
 
 
 ### RESULTS - (Link to Dashboard)
