@@ -6,7 +6,11 @@ Using Tableau, a data visualization software to present a business proposal for 
  a bike-sharing company. 
 
 ### APPROACH
-First, import the flat file, CSV data into Tableau. Next create and style worksheets, dashboards, and stories in Tableau.
+First, import the flat file, CSV data into Tableau. Next create and style worksheets, dashboards, and stories in Tableau. 
+Then use Tableau worksheets to display data in a professional way. Finally, portray data accurately using Tableau dashboards.
+
+
+![overview](https://github.com/aodoming/Mapping_Earthquakes_ADominguez/blob/master/pics/Earthquake_past7days.png)
 
 
 
