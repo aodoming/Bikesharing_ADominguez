@@ -10,7 +10,7 @@ First, import the flat file, CSV data into Tableau. Next create and style worksh
 Then use Tableau worksheets to display data in a professional way. Finally, portray data accurately using Tableau dashboards.
 
 
-![overview](https://github.com/aodoming/Bikesharing_ADominguez/tree/master/pics)
+![overview](https://github.com/aodoming/Bikesharing_ADominguez/blob/master/pics/worksheet_story_dashboard.png)
 
 
 ### RESULTS - (Link to Dashboard)
