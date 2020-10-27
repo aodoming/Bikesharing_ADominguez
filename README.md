@@ -24,5 +24,5 @@ Then use Tableau worksheets to display data in a professional way. Finally, port
 * Portray data accurately using Tableau dashboards.
 * Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
-### SOFTWARE/TOOLS
+### SOFTWARE/
 Tableau
